@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 100%;
+}
+
+.box2{
+    display: flex;
+    flex-wrap: wrap-reverse;
+
+}
+.inbox2{
+    width: 100%;
+    margin: auto;
+}
+.box3{
+    display: flex;
+    width: fit-content;
+    flex-wrap: wrap;
+}
+
+.address{
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+}
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.skills img{
+    margin: 20px 50px;
+}
+.skills hr{
+    display: none;
+}
+.skills p{
+    display: none;
+}
+#Contact{
+    width: 50%;
+    margin: auto;
+}
