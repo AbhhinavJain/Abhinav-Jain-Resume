@@ -11,8 +11,21 @@ body{
     flex-wrap: wrap-reverse;
 
 }
+.inbox1{
+    width: 85%;
+    margin: auto;
+}
 .inbox2{
-    width: 100%;
+    width: 85%;
+    margin: auto;
+    /* padding : auto;  */
+}
+.school{
+    width: 650px;
+    margin: auto;
+}
+#About p{
+    width: 650px;
     margin: auto;
 }
 .box3{
@@ -30,9 +43,11 @@ body{
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+    margin-left:62px ;
 }
 .skills img{
     margin: 20px 50px;
+
 }
 .skills hr{
     display: none;
@@ -43,4 +58,8 @@ body{
 #Contact{
     width: 50%;
     margin: auto;
+}
+
+p{
+    font-size: larger;
 }
