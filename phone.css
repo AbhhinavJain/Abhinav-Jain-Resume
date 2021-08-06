@@ -5,12 +5,15 @@
 body{
     width: 100%;
 }
-
+.box1 li a{
+    font-size: 16px;
+}
 .box2{
     display: flex;
     flex-wrap: wrap-reverse;
 
 }
+
 .inbox1{
     width: 85%;
     margin: auto;
